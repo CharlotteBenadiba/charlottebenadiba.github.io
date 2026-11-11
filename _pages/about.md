@@ -6,7 +6,7 @@ subtitle: Software engineering, machine learning and assistive technology.
 
 profile:
   align: right
-  image: assets/img/photo-de-profil.jpg
+  image: photo-de-profil.jpg
   image_circular: false # crops the image to make it circular
   more_info: ""
 
